@@ -1,4 +1,4 @@
-## Hi there 👋
+## Senior @ UNCC Studying Comp Sci with a concentration in Software Engineering 
 
 <!--
 **cfreeman02/cfreeman02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
